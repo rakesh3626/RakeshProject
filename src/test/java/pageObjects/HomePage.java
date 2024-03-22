@@ -11,7 +11,7 @@ public class HomePage extends BasePage{
 		super(driver);
 		
 	}
-	@FindBy(xpath="//div[@class='panel header']//a[text()='Create an Account']")
+	@FindBy(xpath="//div[contains(text(),'Register')]")
 	WebElement Create_acct;
 	
 	public void click_My_acct() {

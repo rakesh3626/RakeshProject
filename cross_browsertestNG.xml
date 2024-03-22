@@ -4,13 +4,13 @@
   <test thread-count="5" name="chromeTest">
 	  <parameter name="browser" value="chrome"></parameter>
     <classes>
-      <class name="testCase.TC_01_Registration"/>
+      <class name="testCase.TC_02_Login"/>
     </classes>
   </test>
   <test thread-count="5" name="edgeTest">
 	  <parameter name="browser" value="edge"></parameter>
     <classes>
-      <class name="testCase.TC_01_Registration"/>
+      <class name="testCase.TC_02_Login"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

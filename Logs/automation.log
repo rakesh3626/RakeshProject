@@ -48,3 +48,144 @@
 16:27:29.521 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
 16:27:29.640 [main] INFO  testCase.TC_01_Registration - *********application logs********
 16:27:29.641 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+13:55:17.623 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+13:55:17.796 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+13:55:17.806 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+13:55:18.102 [main] INFO  testCase.TC_01_Registration - *********application logs********
+13:55:18.102 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+14:16:08.863 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+14:16:09.041 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+14:16:09.066 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+14:16:09.302 [main] INFO  testCase.TC_01_Registration - *********application logs********
+14:16:09.303 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+14:20:50.480 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+14:21:57.811 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+14:21:58.028 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+14:21:58.075 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+14:21:58.289 [main] INFO  testCase.TC_01_Registration - *********application logs********
+14:21:58.290 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+15:39:47.097 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+15:39:47.298 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+15:39:47.317 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+15:39:47.660 [main] INFO  testCase.TC_01_Registration - *********application logs********
+15:39:47.661 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+11:25:38.302 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+11:25:38.549 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+11:25:38.571 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+11:25:38.724 [main] INFO  testCase.TC_01_Registration - *********application logs********
+11:25:38.724 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+11:28:50.880 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+11:28:51.028 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+11:28:51.046 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+11:28:51.281 [main] INFO  testCase.TC_01_Registration - *********application logs********
+11:28:51.281 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+11:31:21.159 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+11:31:21.330 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+11:31:21.347 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+11:31:21.494 [main] INFO  testCase.TC_01_Registration - *********application logs********
+11:31:21.494 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+11:33:30.654 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+11:33:30.799 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+11:33:30.818 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+11:33:30.977 [main] INFO  testCase.TC_01_Registration - *********application logs********
+11:33:30.978 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+11:35:01.157 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+11:35:01.309 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+11:35:01.329 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+11:35:01.530 [main] INFO  testCase.TC_01_Registration - *********application logs********
+11:35:01.530 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+11:36:51.983 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+11:36:54.461 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+11:36:54.472 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+11:36:54.639 [main] INFO  testCase.TC_01_Registration - *********application logs********
+11:36:54.640 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+11:43:16.873 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+11:43:18.751 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+11:43:18.767 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+11:43:18.928 [main] INFO  testCase.TC_01_Registration - *********application logs********
+11:43:18.929 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+15:00:38.581 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+15:00:38.823 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+15:00:38.869 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+15:00:39.233 [main] INFO  testCase.TC_01_Registration - *********application logs********
+15:00:39.234 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+16:30:02.069 [main] INFO  testCase.TC_02_Login - ********Lauching URL********
+16:30:03.188 [main] INFO  testCase.TC_02_Login - *********Maximize window********
+16:30:03.239 [main] INFO  testCase.TC_02_Login - *********implicit applied********
+16:36:13.805 [main] INFO  testCase.TC_02_Login - ********Lauching URL********
+16:36:16.645 [main] INFO  testCase.TC_02_Login - *********Maximize window********
+16:36:16.663 [main] INFO  testCase.TC_02_Login - *********implicit applied********
+16:36:52.303 [main] INFO  testCase.TC_02_Login - ********Lauching URL********
+16:36:52.545 [main] INFO  testCase.TC_02_Login - *********Maximize window********
+16:36:52.565 [main] INFO  testCase.TC_02_Login - *********implicit applied********
+10:59:08.128 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+10:59:08.443 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+10:59:08.478 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+10:59:08.642 [main] INFO  testCase.TC_01_Registration - *********application logs********
+10:59:08.642 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+11:04:06.140 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+11:04:06.292 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+11:04:06.319 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+11:04:06.444 [main] INFO  testCase.TC_01_Registration - *********application logs********
+11:04:06.445 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+11:19:14.725 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+11:19:14.877 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+11:19:14.894 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+11:19:15.060 [main] INFO  testCase.TC_01_Registration - *********application logs********
+11:19:15.061 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+11:20:12.651 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+11:20:12.810 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+11:20:12.841 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+11:20:12.976 [main] INFO  testCase.TC_01_Registration - *********application logs********
+11:20:12.977 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+11:56:53.990 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+11:56:54.196 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+11:56:54.214 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+11:56:54.485 [main] INFO  testCase.TC_01_Registration - *********application logs********
+11:56:54.485 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+12:50:56.706 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+12:50:57.039 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+12:50:57.056 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+12:50:57.335 [main] INFO  testCase.TC_01_Registration - *********application logs********
+12:50:57.335 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+12:59:43.240 [main] INFO  testCase.TC_01_Registration - ********Lauching URL********
+12:59:43.490 [main] INFO  testCase.TC_01_Registration - *********Maximize window********
+12:59:43.508 [main] INFO  testCase.TC_01_Registration - *********implicit applied********
+12:59:43.663 [main] INFO  testCase.TC_01_Registration - *********application logs********
+12:59:43.663 [main] INFO  testCase.TC_01_Registration - *********Clicking on my account********
+14:23:22.830 [main] INFO  testCase.TC_02_Login - ********Lauching URL********
+14:23:24.833 [main] INFO  testCase.TC_02_Login - *********Maximize window********
+14:23:24.960 [main] INFO  testCase.TC_02_Login - *********implicit applied********
+14:24:24.727 [main] INFO  testCase.TC_02_Login - ********Lauching URL********
+14:24:24.890 [main] INFO  testCase.TC_02_Login - *********Maximize window********
+14:24:24.902 [main] INFO  testCase.TC_02_Login - *********implicit applied********
+14:30:28.571 [main] INFO  testCase.TC_02_Login - ********Lauching URL********
+14:30:28.722 [main] INFO  testCase.TC_02_Login - *********Maximize window********
+14:30:28.735 [main] INFO  testCase.TC_02_Login - *********implicit applied********
+15:02:52.449 [main] INFO  testCase.TC_02_Login - ********Lauching URL********
+15:02:52.617 [main] INFO  testCase.TC_02_Login - *********Maximize window********
+15:02:52.632 [main] INFO  testCase.TC_02_Login - *********implicit applied********
+15:04:22.605 [main] INFO  testCase.TC_02_Login - ********Lauching URL********
+15:04:22.764 [main] INFO  testCase.TC_02_Login - *********Maximize window********
+15:04:22.781 [main] INFO  testCase.TC_02_Login - *********implicit applied********
+16:01:52.715 [main] INFO  testCase.TC_02_Login - ********Lauching URL********
+16:01:52.874 [main] INFO  testCase.TC_02_Login - *********Maximize window********
+16:01:52.886 [main] INFO  testCase.TC_02_Login - *********implicit applied********
+10:55:53.991 [main] INFO  testCase.TC_02_Login - ********Lauching URL********
+10:55:54.466 [main] INFO  testCase.TC_02_Login - *********Maximize window********
+10:55:54.660 [main] INFO  testCase.TC_02_Login - *********implicit applied********
+12:22:08.308 [main] INFO  testCase.TC_02_Login - ********Lauching URL********
+12:22:08.464 [main] INFO  testCase.TC_02_Login - *********Maximize window********
+12:22:08.481 [main] INFO  testCase.TC_02_Login - *********implicit applied********
+12:27:46.917 [main] INFO  testCase.TC_02_Login - ********Lauching URL********
+12:27:47.068 [main] INFO  testCase.TC_02_Login - *********Maximize window********
+12:27:47.083 [main] INFO  testCase.TC_02_Login - *********implicit applied********
+12:33:48.870 [main] INFO  testCase.TC_02_Login - ********Lauching URL********
+12:33:49.024 [main] INFO  testCase.TC_02_Login - *********Maximize window********
+12:33:49.044 [main] INFO  testCase.TC_02_Login - *********implicit applied********
+12:37:44.532 [main] INFO  testCase.TC_02_Login - ********Lauching URL********
+12:37:44.679 [main] INFO  testCase.TC_02_Login - *********Maximize window********
+12:37:44.688 [main] INFO  testCase.TC_02_Login - *********implicit applied********
+12:39:46.447 [main] INFO  testCase.TC_02_Login - ********Lauching URL********
+12:39:46.593 [main] INFO  testCase.TC_02_Login - *********Maximize window********
+12:39:46.613 [main] INFO  testCase.TC_02_Login - *********implicit applied********
