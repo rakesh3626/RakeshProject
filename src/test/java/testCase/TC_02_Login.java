@@ -16,13 +16,6 @@ public class TC_02_Login extends BaseClass{
 	lp.click_login();
 	lp.setuser(RB.getString("userid"));
 	lp.setpassword(RB.getString("pwd"));
-	lp.click_submit();
-	lp.click_payuser();
-	lp.setsearchvalue(RB.getString("contactname"));
-	lp.setamount(RB.getString("amnt"));
-	Thread.sleep(2000);
-	lp.click_next();
-	lp.click_confirm();
-	
+	lp.click_submit();	
 	}
 }
